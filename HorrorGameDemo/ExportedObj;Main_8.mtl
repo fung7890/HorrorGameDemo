@@ -1,0 +1,88 @@
+
+newmtl Object002Mat
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Assets/Prefabs/Ghost/Pictures/och0_item0_def_bsm.dds
+
+
+
+newmtl Object003Mat
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Assets/Prefabs/Ghost/Pictures/och0_wear0_def_bsm.dds
+
+
+
+newmtl Object004Mat
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Assets/Prefabs/Ghost/Pictures/och0_eyes0_def_bsm00000000000.dds
+
+
+
+newmtl Object009Mat
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Assets/Prefabs/Ghost/Pictures/och0_body1_def_bsm.dds
+
+
+
+newmtl Object013Mat
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Assets/Prefabs/Ghost/Pictures/och0_hair0_def_bsm_alp.dds
+
+
+
+newmtl Object014Mat
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Assets/Prefabs/Ghost/Pictures/och0_mout0_hig_c00_bsm.dds
+
+
+
+newmtl Object015Mat
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Assets/Prefabs/Ghost/Pictures/och0_face0_def_bsm.dds
+
+
+
+newmtl Object016Mat
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Assets/Prefabs/Ghost/Pictures/och0_body0_def_bsm.dds
+
+

@@ -1,0 +1,1440 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\HorrorGameDemo\New Unity Project\HorrorDemov1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.382692 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2444 -> priority: 1 
+  Thread -> id: 1ea0 -> priority: 1 
+works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raycast works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Collider:INTERNAL_CALL_Internal_Raycast (UnityEngine.Collider,UnityEngine.Ray&,UnityEngine.RaycastHit&,single)
+  at UnityEngine.Collider.Internal_Raycast (UnityEngine.Collider col, Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collider.Raycast (Ray ray, UnityEngine.RaycastHit& hitInfo, Single maxDistance) [0x00000] in <filename unknown>:0 
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+level change works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.487581 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 957.
+Total: 0.321939 ms (FindLiveObjects: 0.054358 ms CreateObjectMapping: 0.037897 ms MarkObjects: 0.178387 ms  DeleteObjects: 0.050530 ms)
+
+no ghost this level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+baning works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+level change works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.003332 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1295.
+Total: 0.327298 ms (FindLiveObjects: 0.065459 ms CreateObjectMapping: 0.040577 ms MarkObjects: 0.143551 ms  DeleteObjects: 0.076943 ms)
+
+final works
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Refocus.RefocusUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
